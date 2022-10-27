@@ -18,6 +18,7 @@ group :jekyll_plugins do
         gem 'htmlbeautifier'
         gem 'unicode_utils'
         gem 'webrick'
+        gem 'mini_racer', '~> 0.6.3'
     end
 #group :other_plugins do
 #    gem 'httparty'
